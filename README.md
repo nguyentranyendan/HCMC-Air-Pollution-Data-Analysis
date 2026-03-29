@@ -62,11 +62,14 @@ Kết quả có thể hỗ trợ:
 - Mở rộng phân tích sang khu vực khác
 ---
 ## Tác giả
+Nguyễn Trần Yên Đan - K244161778  
 
-Nguyễn Trần Yên Đan
-Ngành hệ thống tin quản lý
-Trường Đại học Kinh tế - Luật, ĐHQG-TP.HCM
+Nhóm Firefly
+Ngành Kinh doanh số và Trí tuệ nhân tạo  
+Khoa Hệ thống Thông tin  
+Trường Đại học Kinh tế – Luật, ĐHQG-HCM  
 
 ---
+
 ## Ghi chú
-Dự án được thực hiện nhằm mục đích học tập và phát triển kỹ năng cá nhân.
+Dự án được xây dựng nhằm mục đích học tập và phát triển kỹ năng cá nhân.
