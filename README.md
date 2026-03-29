@@ -40,6 +40,8 @@ HCMC-Air-Pollution-Data-Analysis/
 ├── reports/
 │   └── final_report.pdf
 │
+├── images/
+│
 └── README.md
 
 ## Phân tích dữ liệu
