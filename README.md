@@ -63,9 +63,8 @@ Kết quả có thể hỗ trợ:
 ---
 ## Tác giả
 Nguyễn Trần Yên Đan
-
-Ngành Hệ thống Thông tin Quản lý (MIS)
-Trường Đại học Kinh tế – Luật, ĐHQG-HCM
+Ngành hệ thống tin quản lý
+Trường Đại học Kinh tế - Luật, ĐHQG-TP.HCM
 ---
 ## Ghi chú
 Dự án được thực hiện nhằm mục đích học tập và phát triển kỹ năng cá nhân.
