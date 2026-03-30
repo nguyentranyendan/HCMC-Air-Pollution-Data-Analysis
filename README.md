@@ -69,7 +69,7 @@ Kết quả có thể hỗ trợ:
 Nguyễn Trần Yên Đan - K244161778  
 
 Nhóm Firefly 
-Ngành Hệ thống thông tin quản lý - chuyên ngành Kinh doanh số và Trí tuệ nhân tạo 
+Ngành Hệ thống thông tin quản lý - chuyên ngành Kinh doanh số và Trí tuệ nhân tạo         
 Khoa Hệ thống Thông tin  
 Trường Đại học Kinh tế – Luật, ĐHQG-HCM  
 
