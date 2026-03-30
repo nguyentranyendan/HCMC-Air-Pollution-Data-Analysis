@@ -22,11 +22,11 @@ Dự án hướng đến:
 - So sánh mức độ ô nhiễm theo khu vực
 - Trực quan hóa dữ liệu bằng biểu đồ
 ---
-## Công nghệ sử dụng
+## Công cụ sử dụng
 - Python (Pandas, Matplotlib, Seaborn)
 - Google Colab
 - Excel
-- Git và GitHub
+- GitHub
 ---
 ## Phân tích dữ liệu
 Dữ liệu sử dụng:
@@ -38,6 +38,10 @@ Quy trình xử lý:
 - Chuẩn hóa dữ liệu
 - Phân tích xu hướng theo thời gian
 - Trực quan hóa dữ liệu
+
+Nguồn dataset:
+https://data.mendeley.com/datasets/pk6tzrjks8/1 
+
 ---
 ## Insight chính
 - Xác định các khu vực có mức độ ô nhiễm cao
